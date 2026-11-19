@@ -8,7 +8,7 @@ Right now I mostly work with **PHP and Laravel** for web apps and **Java** for d
 
 - **[BiKantin](https://github.com/Quicksilveer/BiKantin)**: a school canteen ordering app. Students order from the menu, cashiers confirm payments, and admins manage menus, orders, and accounts. Order status updates on the student's screen without a refresh. *Laravel, MySQL, PHPUnit*
 - **[BiGotTalent-Web](https://github.com/Quicksilveer/BiGotTalent-Web)**: a sign-up app for our school talent competition. Students register for events and follow their selection status, and admins manage events, accounts, and each stage. *Laravel, Breeze, Tailwind CSS, MySQL*
-- **[BiKantin-Desktop](https://github.com/Quicksilveer/BiKantin-Desktop)** and **[BiGotTalent-Desktop](https://github.com/Quicksilveer/BiGotTalent-Desktop)**: earlier desktop versions of the same two ideas, built with Java Swing and MySQL
+- **[BiKantin-Desktop](https://github.com/Quicksilveer/BiKantin-Desktop)** and **[BiGotTalent-Desktop](https://github.com/Quicksilveer/BiGotTalent-Desktop)**: desktop versions of the same two apps, built with Java Swing and MySQL
 - **[AplikasiKasirToko](https://github.com/Quicksilveer/AplikasiKasirToko)**: a simple store cashier app with discounts, from my OOP class *(Java)*
 
 ### Tools I use
