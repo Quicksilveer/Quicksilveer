@@ -9,7 +9,7 @@
 
 I'm a software engineering (RPL) student at SMK Bina Informatika. Most of what I build starts as a school assignment, but I try to make each one work like something people could actually use, like an online ordering system for our school canteen or a sign-up app for our talent show.
 
-Right now I mostly work with **PHP and Laravel** for web apps and **Java** for desktop apps. On the side I've been messing around with C#/ASP.NET, Android, and a bit of Node.js. Lately I've also started writing automated tests for my Laravel projects.
+Right now I mostly work with **PHP and Laravel** for web apps and **Java** for desktop apps. On the side I've been messing around with C#/ASP.NET, Android, and a bit of Node.js. Lately I've also started writing automated tests for my Laravel projects. I also use Figma for UI/UX and website design.
 
 ---
 
@@ -38,6 +38,9 @@ Right now I mostly work with **PHP and Laravel** for web apps and **Java** for d
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
