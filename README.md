@@ -59,7 +59,7 @@ Right now I mostly work with **PHP and Laravel** for web apps and **Java** for d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quicksilveer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="Mikhael's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quicksilveer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Mikhael's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilveer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 </p>
 
