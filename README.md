@@ -56,6 +56,18 @@ Right now I mostly work with **PHP and Laravel** for web apps and **Java** for d
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Quicksilveer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Mikhael's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilveer&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Quicksilveer&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
 ### 📚 What I'm Learning
 
 Getting better at OOP in Java, writing cleaner Laravel code (validation, access control, tests), and building my first Android apps.
